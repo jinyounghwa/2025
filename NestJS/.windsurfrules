@@ -31,4 +31,7 @@
 - Use readonly for immutable properties.
 - Use as const for literals that never change.
 
+# Cascade 응답 시간이 30초를 초과하면 알림 표시
+cascade.response_time_alert_threshold_seconds = 30
+
 # speak to me in Korean
